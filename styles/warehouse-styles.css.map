@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,WAAW,EAAE,IAAI;;AAGnB,gBAAiB;EACb,SAAS,EAAE,KAAK",
+"sources": ["warehouse-styles.scss"],
+"names": [],
+"file": "warehouse-styles.css"
+}
